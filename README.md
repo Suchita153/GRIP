@@ -1,3 +1,3 @@
 # GRIP
 The sparks foundation-Data Science and Business Analytics
-Author-Suchita Chaudhary
+<br>Author-Suchita Chaudhary
